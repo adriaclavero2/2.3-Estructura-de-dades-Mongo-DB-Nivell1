@@ -106,6 +106,8 @@ Which supplier provides the glasses purchased
 
 Who referred the client to the store
 
+********************************************************************************
+
 🕶️ Exercise 2: Product‑Centric Data Model
 
 From the perspective of the glasses (product‑centric view), the system must represent:
@@ -169,6 +171,8 @@ Which client purchased them
 Which employee sold them
 
 When the sale occurred
+
+************************************************************
 
 🛠 Technologies Used
 
