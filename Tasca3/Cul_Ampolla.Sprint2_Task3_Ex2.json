@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6971f9b785f5b869f18d371f"
+  },
+  "Google": {
+    "Details": {
+      "Brand": "",
+      "Frame": "",
+      "Provider": "",
+      "Price": ""
+    },
+    "Bought by": {
+      "Client 1": "",
+      "Client 2": "",
+      "Client 3": ""
+    }
+  }
+}]
