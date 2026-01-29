@@ -1,6 +1,32 @@
-[{
+{
   "_id": {
     "$oid": "6971f5ef85f5b869f18d371a"
   },
-  "Client Name": ""
-}]
+  "Client Name": {
+    "Data": {
+      "Adress": "Right St, 123",
+      "Telephone": "654987123",
+      "Email": "email@email.com",
+      "Register Date": "23/02/2023",
+      "Submit Button": {
+        "Message ": "Registered"
+      }
+    },
+    "Last Shoppings": {
+      "Rayban": {
+        "Graduation": {
+          "L": "2.3",
+          "R": "1.2"
+        },
+        "Glass Color": {
+          "L": "Green",
+          "R": "Green"
+        },
+        "Frame Type": "Metallic",
+        "Price": {
+          "$numberDecimal": "999.99"
+        }
+      }
+    }
+  }
+}
