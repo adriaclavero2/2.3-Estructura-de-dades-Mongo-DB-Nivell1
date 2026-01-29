@@ -1,18 +1,29 @@
-[{
+{
   "_id": {
     "$oid": "6971f9b785f5b869f18d371f"
   },
   "Google": {
     "Details": {
-      "Brand": "",
-      "Frame": "",
-      "Provider": "",
-      "Price": ""
+      "Brand": "Rayban",
+      "Frame": "Metal",
+      "Provider": "Provider S.L.",
+      "Price": {
+        "$numberDecimal": "199.99"
+      },
+      "Search Button": {
+        "popUp supplier ": "etc..."
+      }
     },
     "Bought by": {
-      "Client 1": "",
-      "Client 2": "",
-      "Client 3": ""
+      "Joan Pere": {
+        "Client File": "etc..."
+      },
+      "Marco Aurelio": {
+        "Client File": "etc..."
+      },
+      "Francisco Hermenegildo": {
+        "Client File": "etc..."
+      }
     }
   }
-}]
+}
