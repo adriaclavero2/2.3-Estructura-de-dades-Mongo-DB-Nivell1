@@ -1,31 +1,21 @@
 {
-  "Google": {
-    "_id": "66f000000000000000000201",
-    "Details": {
-      "Brand": "Google",
-      "Frame": "Metallic",
-      "Provider": "Googles Associated SL",
-      "Price": 105.75,
-      "Search Button": {
-        "popUp supplier": "Detailed provider info"
-      }
+  "_id": {
+    "$oid": "6971f9b785f5b869f18d371f"
+  },
+  "Glass": {
+    "brand": "Rayban",
+    "frame": "metallic",
+    "provider": "Sunglasses provider S.L.",
+    "search-btn": {},
+    "price": {
+      "$numberDecimal": "199.99"
     },
-    "Bought By": [
-      {
-        "Francisco Hermenegildo": {
-          "Client File": "FICH-0001"
-        }
-      },
-      {
-        "Joan Pere": {
-          "Client File": "FICH-0002"
-        }
-      },
-      {
-        "Marco Aurelio": {
-          "Client File": "FICH-0003"
+    "Bought by:": {
+      "Juan Fernandez": {
+        "File-btn": {
+          "Client File": ""
         }
       }
-    ]
+    }
   }
 }
